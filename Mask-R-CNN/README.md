@@ -21,7 +21,7 @@ Right Ear-2
 ```
 
 #### Notes
-[Kaggle NoteBook](https://www.kaggle.com/maximkumundzhiev/tf-keras-keypointdetection-within-cat-dataset)
+[KeyPointsDetection Kaggle NoteBook](https://www.kaggle.com/maximkumundzhiev/tf-keras-keypointdetection-within-cat-dataset)
 [Detectron2 Guidance]( https://colab.research.google.com/drive/16jcaJoc6bCFAQ96jDe2HwtXj7BMD_-m5)
 [Hungarian algorithm](https://towardsdatascience.com/computer-vision-for-tracking-8220759eee85)
 
